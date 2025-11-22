@@ -5,9 +5,9 @@ import swup from "@swup/astro";
 
 import tailwindcss from "@tailwindcss/vite";
 
-// https://astro.build/config
+// https://space.paulapplegate.com/config
 export default defineConfig({
-  site: "https://djsiddz.github.io",
+  site: "https:/space.paulapplegate.com",
   base: "/space-ahead",
   integrations: [
     swup({
